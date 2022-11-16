@@ -15,5 +15,5 @@ Each video is a sequence of 30 frames (or images).
 Dataset : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
 ### Contributers:
- - [Srikanth Yerragolla](https://github.com/srikanth24y)
+ - [Srikanth Yerragolla] (https://github.com/srikanth24y)
  - [RajuMopidevi] (https://github.com/RajuMopidevi)
